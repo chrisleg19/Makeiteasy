@@ -23,7 +23,7 @@ img {
 }
 .topContainer {
   background: url(./makeiteasyImgs/AdobeStock_271462542\ copy.jpg);
-  height: 850px;
+  height: 750px;
   background-size: cover;
   display: flex;
   flex-direction: column;
